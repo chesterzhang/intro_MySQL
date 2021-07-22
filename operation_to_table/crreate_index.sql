@@ -16,4 +16,5 @@ DROP INDEX idx_type ON t_message;
 CREATE INDEX idx_type ON t_message(type);
 
 #查看索引
+SHOW INDEX FROM t_message;
   
