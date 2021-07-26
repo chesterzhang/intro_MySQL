@@ -38,6 +38,12 @@
     <td><a href="https://chesterzhang666.gitbook.io/intro-mysql/advanced-select" target="_blank" rel="noopener noreferrer">Advanced Select[已完成]</a></td>
     <td><a href="https://github.com/chesterzhang/intro_MySQL/tree/zhc_dev/advanced_select" target="_blank" rel="noopener noreferrer">已完成</a></td>
   </tr>
+  <tr>
+    <td>Operation to Data</td>
+    <td>插入，更新，删除数据</td>
+    <td><a href="https://chesterzhang666.gitbook.io/intro-mysql/operation-to-data" target="_blank" rel="noopener noreferrer">Operation to Data[已完成]</a></td>
+    <td><a href="https://github.com/chesterzhang/intro_MySQL/tree/zhc_dev/operation_to_data" target="_blank" rel="noopener noreferrer">已完成</a></td>
+  </tr>
 </tbody>
 </table>
 
