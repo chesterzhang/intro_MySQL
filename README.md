@@ -69,6 +69,12 @@
     <td><a href="https://chesterzhang666.gitbook.io/intro-mysql/sql-yun-suan-fu" target="_blank" rel="noopener noreferrer">SQL Operator[已完成]</a></td>
     <td>无</td>
   </tr>
+  <tr>
+    <td>面试八股文</td>
+    <td>MySQL 与 数据库 通用 八股文</td>
+    <td><a href="https://chesterzhang666.gitbook.io/intro-mysql/" target="_blank" rel="noopener noreferrer">面试八股文</a></td>
+    <td>无</td>
+  </tr>
 </tbody>
 </table>
 
